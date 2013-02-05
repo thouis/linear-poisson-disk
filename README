@@ -1,0 +1,10 @@
+This is the example implementation for "Linear-Time Poisson-Disk
+Patterns" by Jones & Karger, Journal of Graphics, GPU, and Game Tools,
+2011, Vol. 15, Issue 3, pp. 177-182
+
+Paper here:
+http://arxiv.org/abs/1107.3013
+
+The code is in python, and requires the Polygon module, available from
+pypi.  It is quite slow in this implementation, primarily due to the
+interpreted nature of Python.
